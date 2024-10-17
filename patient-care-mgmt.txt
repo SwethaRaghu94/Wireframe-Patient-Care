@@ -1,0 +1,7 @@
+	•	Name: Swetha Ragothaman
+	•	Stack: Python
+	•	GitHub Repo link: https://github.com/SwethaRaghu94/patient-care
+	•	Project name: Patient Care Management Tool
+	•	Project description: The project is about care management provided to patients enrolled under a care 	provider. A care provider in a hospital system will be registering themselves. They can have a login and have a set of patients whom they provide care for. They will be able to add a new patient and record the enrolled date, name, age, gender and other patient information on their database. They can use patient information to communicate with the patient about their progress. And update the information as and when required. If they wish to delete a patient from the database they would have to be logged in to do so. Only the logged in care-provider will be able to update or delete patient information. While they can still view other patient information.
+	•	MVP (Minimum Viable Product) features: CRUD
+	•	Bonus feature(s): For styling I will use the CSS Framework - bootstrap
